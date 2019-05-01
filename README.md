@@ -1,1 +1,1 @@
-# mvc-pinguins
+# mvc-penguins
